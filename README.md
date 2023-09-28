@@ -62,7 +62,7 @@ npm run dev
 
 ## Website Preview
 
-If you'd like to have a preview of this project you can check the uploaded project on: 
+If you'd like to have a preview of this project you can check the uploaded project on: https://3d-studio.netlify.app
 
 
 </div>
