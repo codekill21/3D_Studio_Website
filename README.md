@@ -23,7 +23,13 @@ The website displays a brief description of 3D Design studio which is mainly bas
 
 ## Running this project
 
-To get this project up and running you should start by having NodeJs installed on your computer. It's advised you create a virtual environment to store your projects dependencies separately. You can install virtualenv with
+To get this project up and running you should start by having NodeJs installed on your computer.
+
+```
+sudo apt install nodejs
+```
+
+It's advised you create a virtual environment to store your projects dependencies separately. You can install virtualenv with
 
 ```
 pip install virtualenv
@@ -44,19 +50,19 @@ source env/bin/active
 Then install the project dependencies with
 
 ```
-pip install -r requirements.txt
+npm install 
 ```
 
 Now you can run the project with this command
 
 ```
-python manage.py runserver
+npm run dev
 ```
 
 
-## Support
+## Website Preview
 
-If you'd like to support this project and all the other open source work on this organization, you can use the following options
+If you'd like to have a preview of this project you can check the uploaded project on: 
 
 
 </div>
