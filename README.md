@@ -14,7 +14,7 @@ This project was designed from a reference design created by a dribbble user: ht
 
 ## Project Summary
 
-The website displays a brief description of 3D Design studio which is mainly based in Japan, it is like a business portfolio. This is just a prototype and i am so proud to have completed such a project, hopefully in the future i can bigger and better responsive sites.
+The website displays a brief description of 3D Design studio which is mainly based in Japan, it is like a business portfolio. This is just a prototype and i am so proud to have completed such a project, hopefully in the future I can build bigger and better responsive sites.
 
 ![image](https://github.com/codekill21/3D_Studio_Website/assets/64259757/380168b5-4f35-4e9d-a896-94f3c90a926e)
 
